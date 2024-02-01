@@ -1,8 +1,8 @@
 import pandas as pd
 import streamlit as st
 import base64
-import plotly.express as px
-import plotly.graph_objects as go
+# import plotly.express as px
+# import plotly.graph_objects as go
 from io import BytesIO
 
 # Title
