@@ -2,6 +2,5 @@ streamlit
 bs4
 numpy
 pandas
-plotly
 snowflake-snowpark-python
 scikit-learn
